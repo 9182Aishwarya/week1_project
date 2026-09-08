@@ -4,13 +4,8 @@
 #include <sys/wait.h>
 #include <stdlib.h>
 #include "student.h"
-extern int count;
-struct Student
-{
-int id;
-    char name[30];
-};
-extern struct Student s[];
+int count=10;
+struct Student s[10];
 void createProcesses()
 {
     int i;
@@ -42,3 +37,4 @@ void createProcesses()
     }
     printf("All child processes completed\n");
 }
+
