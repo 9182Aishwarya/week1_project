@@ -1,0 +1,734 @@
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+Student Process Created
+Student ID   : 1
+Student Name : aishwarya
+PID          : 1576698
+PPID         : 1576697
+---------------------------
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+Student Process Created
+Student ID   : 2
+Student Name : manjula
+PID          : 1576699
+PPID         : 1576697
+---------------------------
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+Student Process Created
+Student ID   : 3
+Student Name : sujatha
+PID          : 1576700
+PPID         : 1576697
+---------------------------
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+Student Process Created
+Student ID   : 4
+Student Name : shakunthala
+PID          : 1576701
+PPID         : 1576697
+---------------------------
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+Student Process Created
+Student ID   : 5
+Student Name : chaitra
+PID          : 1576702
+PPID         : 1576697
+---------------------------
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+Student Process Created
+Student ID   : 6
+Student Name : kalyani
+PID          : 1576703
+PPID         : 1576697
+---------------------------
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+Student Process Created
+Student ID   : 7
+Student Name : vanitha
+PID          : 1576704
+PPID         : 1576697
+---------------------------
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+Student Process Created
+Student ID   : 8
+Student Name : keerthana
+PID          : 1576705
+PPID         : 1576697
+---------------------------
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+Student Process Created
+Student ID   : 9
+Student Name : jessy
+PID          : 1576706
+PPID         : 1576697
+---------------------------
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+Student Process Created
+Student ID   : 10
+Student Name : sandya
+PID          : 1576707
+PPID         : 1576697
+---------------------------
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: Enter ID: Enter Name: 
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Parent Process
+PID = 1576697
+
+
+All Child Processes Completed
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
+Student Details
+ID: 1	Name: aishwarya
+ID: 2	Name: manjula
+ID: 3	Name: sujatha
+ID: 4	Name: shakunthala
+ID: 5	Name: chaitra
+ID: 6	Name: kalyani
+ID: 7	Name: vanitha
+ID: 8	Name: keerthana
+ID: 9	Name: jessy
+ID: 10	Name: sandya
+
+1. Add Student
+2. Display Students
+3. Create Processes
+4. Exit
+Enter Choice: 
