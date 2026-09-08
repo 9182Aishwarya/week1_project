@@ -16,7 +16,7 @@ int main()
 				addStudent();
 				break;
 			case 2:
-				display();
+				Process_student();
 				break;
 			case  3:
 				return 0;
