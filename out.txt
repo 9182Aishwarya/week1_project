@@ -1,0 +1,187 @@
+
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Parent PID=1525740
+
+Student ID   : 1
+Student Name : aishwarya
+PID          : 1525761
+PPID         : 1525740
+-----------------------------
+
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Parent PID=1525740
+
+Student ID   : 2
+Student Name : manjula
+PID          : 1525763
+PPID         : 1525740
+-----------------------------
+
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Parent PID=1525740
+
+Student ID   : 3
+Student Name : sujatha
+PID          : 1525764
+PPID         : 1525740
+-----------------------------
+
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Parent PID=1525740
+
+Student ID   : 4
+Student Name : chaitra
+PID          : 1525765
+PPID         : 1525740
+-----------------------------
+
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Parent PID=1525740
+
+Student ID   : 5
+Student Name : shakunthala
+PID          : 1525766
+PPID         : 1525740
+-----------------------------
+
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Enter ID:enter name:
+1.add student
+2.Display Students
+3.Exists
+enter choice; Parent PID=1525740
+
+All child processes completed
+
+1.add student
+2.Display Students
+3.Exists
+enter choice; 

@@ -16,7 +16,7 @@ int main()
 				addStudent();
 				break;
 			case 2:
-				Process_student();
+				createProcesses();
 				break;
 			case  3:
 				return 0;

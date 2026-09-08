@@ -32,6 +32,7 @@ void createProcesses()
             printf("Student Name : %s\n", s[i].name);
             printf("PID          : %d\n", getpid());
             printf("PPID         : %d\n", getppid());
+	    printf("-----------------------------\n");
             exit(0);
         }
     }

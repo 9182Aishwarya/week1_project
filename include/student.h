@@ -2,7 +2,7 @@
 #define STUDENT_H
 
 void addStudent();
-void display();
+void createProcesses();
 
 #endif
 

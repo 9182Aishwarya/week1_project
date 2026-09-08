@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include "student.h"
-struct Student
+/*struct Student
 {
 	int id;
 	char name[30];
@@ -8,7 +8,7 @@ struct Student
 
 struct Student s[10];
 int count=0;
-
+*/
 void addStudent()
 {
 	printf("Enter ID:");
@@ -17,7 +17,7 @@ void addStudent()
 	scanf("%s",s[count].name);
 	count++;
 }
-void display()
+/*void display()
 {
 	int i;
 	printf("\nStudent Details\n");
@@ -25,5 +25,5 @@ void display()
 	{
 		printf("ID: %d Name:%s\n",s[i].id,s[i].name);
 	}
-}
+}*/
 
