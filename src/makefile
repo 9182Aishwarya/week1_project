@@ -6,4 +6,5 @@ default:
 	$(CC) $(SRC) -I../include -o $(TARGET)
 clean:
 	rm -f $(TARGET)
+
 .PHONY: clean
